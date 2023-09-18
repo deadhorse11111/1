@@ -1,0 +1,11 @@
+Сначала установи зависимости 
+pip install -r requirements.txt
+В директории с граббером
+
+Заполняем строки в main.py
+api_id =
+api_hash = ''
+bot_token = ''
+BOT_USERNAME = ''
+
+Надо начать диалог от клиента с ботом
